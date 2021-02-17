@@ -12,10 +12,17 @@ steemit aims to be the preferred blockchain for dApp development with Smart Medi
 
 # OUR Team Reactive Space
 
-We at Reactivespace are experts in forking of any kind of Blockchain,Coin and developing Crypto Exchange  Whitelabel solutions.We have already forked Steemit,EOS ,BitGreen and have expertise to fork any kind of Blockchain,Coin,Crypto.Our custom  blockchain is forked of Steemit platform and its running smooth 
+We at Reactivespace are experts in forking of any kind of Blockchain,Coin.
+We also provide white label solution for  Crypto Exchange  Whitelabel solutions.
+We have already forked Steemit,EOS ,BitGreen and have expertise to fork any kind of Blockchain,Coin,Crypto.Our custom  blockchain is forked of Steemit platform and its running smooth 
 please contact info@reactivespace.com for using our services in Forking, Developing whitelabel solutions and other IT services.
 
-## If you want to fork social media blockchain just like steemit contact us at : info@reactivespace.com
+## If you want to fork social media blockchain just like steemit contact us at : 
+
+# Email = info@reactivespace.com
+# Telegram = @ha_tyslin
+# Skype = harry9849
+# Skype = hassan.abbas729
 
 
 ## Advantages

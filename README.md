@@ -1,29 +1,14 @@
 # Steemit Fork
 
-Welcome to the  repository for steemit Fork, the blockchain that will revolutionize the web, and soon the blockchain for Smart Media Tokens!
-steemit is the first blockchain which introduced the "Proof of Brain" social consensus algorithm for token allocation.
+Welcome to the repository for Steemit fork, the blockchain that will revolutionize the web, and soon the blockchain for Smart Media Tokens. Steemit is the first blockchain which introduced the "Proof of Brain" social consensus algorithm for token allocation.
 
-Steemit fork is a blockchain-based blogging and social media website, which rewards its users with the cryptocurrency STEEM-FORK for publishing and curating content. steemit Fork is a platform similar to Reddit where you can share your content. This platform is just like Reddit and Medium, allows you to share content, upvote, and network. But here, it pays the user for their participation in the form of cryptocurrencies. 
+Steemit fork is a blockchain-based blogging and social media website, which rewards its users with the cryptocurrency STEEM-FORK for publishing and curating content. Steemit fork is a platform similar to Reddit where you can share your content. This platform is just like Reddit and Medium that allows you to share content, upvote, and network. But here, it pays the user for their participation in the form of cryptocurrencies. Being one of the most actively developed blockchain projects currently in existence, it has become a fertile soil for entrepreneurial pursuits. It has also become home for many cryptocurrency centric projects. Steemit platform aims to be the preferred blockchain for decentralized application development with Smart Media Tokens at its core. With SMTs, everyone can leverage the power of steemit.
 
-Being one of the most actively developed blockchain projects currently in existence, it's become fertile soil for entrepreneurial pursuits. It has also become home for many cryptocurrency centric projects.
+# If you aspire for forking something similar, contact us now at 
 
-steemit aims to be the preferred blockchain for dApp development with Smart Media Tokens at its core. With SMTs, everyone can leverage the power of steemit.
-
-
-# OUR Team Reactive Space
-
-We at Reactivespace are experts in forking of any kind of Blockchain,Coin.
-We also provide white label solution for  Crypto Exchange  Whitelabel solutions.
-We have already forked Steemit,EOS ,BitGreen and have expertise to fork any kind of Blockchain,Coin,Crypto.Our custom  blockchain is forked of Steemit platform and its running smooth 
-please contact info@reactivespace.com for using our services in Forking, Developing whitelabel solutions and other IT services.
-
-## If you want to fork social media blockchain just like steemit contact us at : 
-
-# Email = info@reactivespace.com
-# Telegram = @ha_tyslin
-# Skype = harry9849
-# Skype = hassan.abbas729
-
+Email: info@reactivespace.com, hassan@reactivespace.com
+Skype: hassan.abbas729
+Telegram: @ha_tyslin
 
 ## Advantages
 
@@ -35,7 +20,6 @@ please contact info@reactivespace.com for using our services in Forking, Develop
 * Smart Media Tokens (**soon**)
 * Lowest Entry-Barrier for User Adoption in the market
 * Dozens of dApps already built on steemit and many more to come
-
 
 
 ## System Requirements

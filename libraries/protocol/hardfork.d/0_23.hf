@@ -1,0 +1,13 @@
+#ifndef CLOUT_HARDFORK_0_23
+#define CLOUT_HARDFORK_0_23 23
+#define CLOUT_SMT_HARDFORK CLOUT_HARDFORK_0_23
+
+#ifdef IS_TEST_NET
+#define CLOUT_HARDFORK_0_23_TIME 1571065200 // Mon, 14 October 2019 11:00:00 EDT
+#else
+#define CLOUT_HARDFORK_0_23_TIME 1597970800 // Future 2020...
+#endif
+
+#define CLOUT_HARDFORK_0_23_VERSION hardfork_version( 0, 23 )
+
+#endif

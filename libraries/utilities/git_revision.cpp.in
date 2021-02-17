@@ -1,0 +1,14 @@
+#include <stdint.h>
+#include <clout/utilities/git_revision.hpp>
+
+#define CLOUT_GIT_REVISION_SHA "@CLOUT_GIT_REVISION_SHA@"
+#define CLOUT_GIT_REVISION_UNIX_TIMESTAMP @CLOUT_GIT_REVISION_UNIX_TIMESTAMP@
+#define CLOUT_GIT_REVISION_DESCRIPTION "@CLOUT_GIT_REVISION_DESCRIPTION@"
+
+namespace clout { namespace utilities {
+
+const char* const git_revision_sha = CLOUT_GIT_REVISION_SHA;
+const uint32_t git_revision_unix_timestamp = CLOUT_GIT_REVISION_UNIX_TIMESTAMP;
+const char* const git_revision_description = CLOUT_GIT_REVISION_DESCRIPTION;
+
+} } // end namespace clout::utilities

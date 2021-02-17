@@ -1,0 +1,68 @@
+#pragma once
+
+#include <clout/protocol/clout_operations.hpp>
+
+#include <clout/chain/evaluator.hpp>
+
+namespace clout { namespace chain {
+
+using namespace clout::protocol;
+
+CLOUT_DEFINE_EVALUATOR( account_create )
+CLOUT_DEFINE_EVALUATOR( account_create_with_delegation )
+CLOUT_DEFINE_EVALUATOR( account_update )
+CLOUT_DEFINE_EVALUATOR( account_update2 )
+CLOUT_DEFINE_EVALUATOR( transfer )
+CLOUT_DEFINE_EVALUATOR( transfer_to_vesting )
+CLOUT_DEFINE_EVALUATOR( witness_update )
+CLOUT_DEFINE_EVALUATOR( account_witness_vote )
+CLOUT_DEFINE_EVALUATOR( account_witness_proxy )
+CLOUT_DEFINE_EVALUATOR( withdraw_vesting )
+CLOUT_DEFINE_EVALUATOR( set_withdraw_vesting_route )
+CLOUT_DEFINE_EVALUATOR( comment )
+CLOUT_DEFINE_EVALUATOR( comment_options )
+CLOUT_DEFINE_EVALUATOR( delete_comment )
+CLOUT_DEFINE_EVALUATOR( vote )
+CLOUT_DEFINE_EVALUATOR( vote2 )
+CLOUT_DEFINE_EVALUATOR( custom )
+CLOUT_DEFINE_EVALUATOR( custom_json )
+CLOUT_DEFINE_EVALUATOR( custom_binary )
+CLOUT_DEFINE_EVALUATOR( pow )
+CLOUT_DEFINE_EVALUATOR( pow2 )
+CLOUT_DEFINE_EVALUATOR( feed_publish )
+CLOUT_DEFINE_EVALUATOR( convert )
+CLOUT_DEFINE_EVALUATOR( limit_order_create )
+CLOUT_DEFINE_EVALUATOR( limit_order_cancel )
+CLOUT_DEFINE_EVALUATOR( report_over_production )
+CLOUT_DEFINE_EVALUATOR( limit_order_create2 )
+CLOUT_DEFINE_EVALUATOR( escrow_transfer )
+CLOUT_DEFINE_EVALUATOR( escrow_approve )
+CLOUT_DEFINE_EVALUATOR( escrow_dispute )
+CLOUT_DEFINE_EVALUATOR( escrow_release )
+CLOUT_DEFINE_EVALUATOR( claim_account )
+CLOUT_DEFINE_EVALUATOR( create_claimed_account )
+CLOUT_DEFINE_EVALUATOR( request_account_recovery )
+CLOUT_DEFINE_EVALUATOR( recover_account )
+CLOUT_DEFINE_EVALUATOR( change_recovery_account )
+CLOUT_DEFINE_EVALUATOR( transfer_to_savings )
+CLOUT_DEFINE_EVALUATOR( transfer_from_savings )
+CLOUT_DEFINE_EVALUATOR( cancel_transfer_from_savings )
+CLOUT_DEFINE_EVALUATOR( decline_voting_rights )
+CLOUT_DEFINE_EVALUATOR( reset_account )
+CLOUT_DEFINE_EVALUATOR( set_reset_account )
+CLOUT_DEFINE_EVALUATOR( claim_reward_balance )
+CLOUT_DEFINE_EVALUATOR( claim_reward_balance2 )
+CLOUT_DEFINE_EVALUATOR( delegate_vesting_shares )
+CLOUT_DEFINE_EVALUATOR( witness_set_properties )
+CLOUT_DEFINE_EVALUATOR( smt_setup )
+CLOUT_DEFINE_EVALUATOR( smt_setup_emissions )
+CLOUT_DEFINE_EVALUATOR( smt_setup_ico_tier )
+CLOUT_DEFINE_EVALUATOR( smt_set_setup_parameters )
+CLOUT_DEFINE_EVALUATOR( smt_set_runtime_parameters )
+CLOUT_DEFINE_EVALUATOR( smt_create )
+CLOUT_DEFINE_EVALUATOR( smt_contribute )
+CLOUT_DEFINE_EVALUATOR( create_proposal )
+CLOUT_DEFINE_EVALUATOR( update_proposal_votes )
+CLOUT_DEFINE_EVALUATOR( remove_proposal )
+
+} } // clout::chain

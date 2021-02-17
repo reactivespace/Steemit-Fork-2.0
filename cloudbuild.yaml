@@ -1,0 +1,22 @@
+timeout: "1800s"
+steps:
+
+- name: gcr.io/cloud-builders/git
+  args: ['clone', '-b', '$BRANCH_NAME', '--recurse-submodules', '-v', 'https://github.com/blocktradesdevs/clout.git']
+  id: "Git clone"
+
+- name: gcr.io/cloud-builders/git
+  dir: "clout"
+  args: ['status']
+  id: "Git status"
+
+- name: 'gcr.io/cloud-builders/docker'
+  dir: "clout"
+  args: [
+      'build',
+      '-f', '../Builder.DockerFile',
+      '.'
+      ]
+options:
+  machineType: 'N1_HIGHCPU_32'
+

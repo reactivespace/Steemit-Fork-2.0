@@ -7,7 +7,9 @@ Steemit fork is a blockchain-based blogging and social media website, which rewa
 # If you aspire for forking something similar, contact us now at 
 
 Email: info@reactivespace.com, hassan@reactivespace.com
+
 Skype: hassan.abbas729
+
 Telegram: @ha_tyslin
 
 ## Advantages

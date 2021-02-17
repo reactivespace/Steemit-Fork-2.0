@@ -3,12 +3,12 @@
 Welcome to the  repository for steemit Fork, the blockchain that will revolutionize the web, and soon the blockchain for Smart Media Tokens!
 steemit is the first blockchain which introduced the "Proof of Brain" social consensus algorithm for token allocation.
 
+Steemit fork is a blockchain-based blogging and social media website, which rewards its users with the cryptocurrency STEEM-FORK for publishing and curating content. steemit Fork is a platform similar to Reddit where you can share your content. This platform is just like Reddit and Medium, allows you to share content, upvote, and network. But here, it pays the user for their participation in the form of cryptocurrencies. 
+
 Being one of the most actively developed blockchain projects currently in existence, it's become fertile soil for entrepreneurial pursuits. It has also become home for many cryptocurrency centric projects.
 
 steemit aims to be the preferred blockchain for dApp development with Smart Media Tokens at its core. With SMTs, everyone can leverage the power of steemit.
 
-
-Steemit fork is a blockchain-based blogging and social media website, which rewards its users with the cryptocurrency STEEM-FORK for publishing and curating content. steemit Fork is a platform similar to Reddit where you can share your content. This platform is just like Reddit and Medium, allows you to share content, upvote, and network. But here, it pays the user for their participation in the form of cryptocurrencies. 
 
 # OUR Team Reactive Space
 

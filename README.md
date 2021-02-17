@@ -1,11 +1,14 @@
-# Steemit Fork - The Blockchain That Will Tokenize The Web
+# Steemit Fork
 
-Welcome to the official repository for steemit, the blockchain that will revolutionize the web, and soon the blockchain for Smart Media Tokens!
+Welcome to the  repository for steemit Fork, the blockchain that will revolutionize the web, and soon the blockchain for Smart Media Tokens!
 steemit is the first blockchain which introduced the "Proof of Brain" social consensus algorithm for token allocation.
 
 Being one of the most actively developed blockchain projects currently in existence, it's become fertile soil for entrepreneurial pursuits. It has also become home for many cryptocurrency centric projects.
 
 steemit aims to be the preferred blockchain for dApp development with Smart Media Tokens at its core. With SMTs, everyone can leverage the power of steemit.
+
+
+Steemit fork is a blockchain-based blogging and social media website, which rewards its users with the cryptocurrency STEEM-FORK for publishing and curating content. steemit Fork is a platform similar to Reddit where you can share your content. This platform is just like Reddit and Medium, allows you to share content, upvote, and network. But here, it pays the user for their participation in the form of cryptocurrencies. 
 
 # OUR Team Reactive Space
 
@@ -46,8 +49,6 @@ please contact info@reactivespace.com for using our services in Forking, Develop
       8 - 16 GB RAM
       500 GB HDD
       Ubuntu 18.04 or latest
-
-
 
 
 For a full web node, you need at least 110GB of disk space available. steemitd uses a memory mapped file which currently holds 56GB of data and by default is set to use up to 80GB. The block log of the blockchain itself is a little over 27GB. It's highly recommended to run steemitd on a fast disk such as an SSD or by placing the shared memory files in a ramdisk and using the `--shared-file-dir=/path` command line option to specify where. At least 16GB of memory is required for a full web node. Seed nodes (p2p mode) can run with as little as 4GB of memory with a 24 GB state file. Any CPU with decent single core performance should be sufficient. steemitd is constantly growing. As of August 2017, these numbers were accurate, but you may find you need more disk space to run a full node. We are also constantly working on optimizing steemit's use of disk space.

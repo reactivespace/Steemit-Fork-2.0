@@ -15,7 +15,7 @@ Steemit fork is a blockchain-based blogging and social media website, which rewa
 We at Reactivespace are experts in forking of any kind of Blockchain,Coin and developing Crypto Exchange  Whitelabel solutions.We have already forked Steemit,EOS ,BitGreen and have expertise to fork any kind of Blockchain,Coin,Crypto.Our custom  blockchain is forked of Steemit platform and its running smooth 
 please contact info@reactivespace.com for using our services in Forking, Developing whitelabel solutions and other IT services.
 
-## if you want to fork social media blockchain just like steemit contact us at : info@reactivespace.com
+## If you want to fork social media blockchain just like steemit contact us at : info@reactivespace.com
 
 
 ## Advantages
